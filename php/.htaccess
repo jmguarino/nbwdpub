@@ -1,0 +1,4 @@
+<Files "wedding_sql.log">
+order allow,deny
+deny from all
+</Files>
